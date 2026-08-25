@@ -22,7 +22,7 @@ Currently building systems around LLM security, agent tooling, local models, clo
 
 <p align="left">
   <a href="https://github.com/dumaf">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0891B2&labelColor=1c1917" />
+    <img src="https://img.shields.io/github/followers/dumaf?style=for-the-badge&logo=github&color=0891B2&labelColor=1c1917" />
   </a>
   <a href="https://www.linkedin.com/in/nirav-bos1309/">
     <img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" />
