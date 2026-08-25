@@ -21,13 +21,13 @@ Currently building systems around LLM security, agent tooling, local models, clo
 * 🌍 Bangalore, India
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/dumaf">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0891B2&labelColor=1c1917" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nirav-bos1309/">
     <img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:nirav.bos1309@gmail.com">
     <img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -256,20 +256,12 @@ DevOps
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord&hide_border=true" width="38%" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dumaf&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumaf&layout=compact&theme=nord&hide_border=true" width="38%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Build things. Break them. Figure out why.</i>
+  <i>Build things. Break my Head. Break them. Figure out why.</i>
 </p>
