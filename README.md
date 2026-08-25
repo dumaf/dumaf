@@ -255,10 +255,18 @@ DevOps
 
 # 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumaf&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumaf&layout=compact&theme=nord&hide_border=true" width="38%" />
-</p>
+<table>
+  <tr>
+    <td colspan = "2"><a href="https://github.com/dumaf"><img width=100% src="https://github-profile-trophy.vercel.app/?username=dumaf&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><a href = "https://github.com/dumaf"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dumaf&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/dumaf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dumaf&theme=nord"></a></td>
+		<td><a href="https://github.com/dumaf"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumaf&theme=nord_dark"></a></td>
+	</tr>
+	</table>
 
 ---
 
